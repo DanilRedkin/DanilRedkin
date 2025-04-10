@@ -1,20 +1,11 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**DanilRedkin/DanilRedkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Danil Redkin**, a second-year Computer Science student at ITMO University.  
 
-# Danya Redkin  
+🚀 Passionate about **Golang**, **backend development**, **microservices**, and **clean architecture**.
+📌 Currently developing **library-service**, a microservice-based system for managing books and authors, built with **gRPC, REST, PostgreSQL**, and **comprehensive testing** provided for all layers of **clean architecture**.
+🎯 Looking to deepen my knowledge in **high-performance backend systems** and **distributed architectures**.  
 
-👋 Hi, I'm **Danya (Danil) Redkin**, a 2nd-year Computer Science student at ITMO University in Saint Petersburg.  
-🚀 Passionate about **Golang**, software development, and scalable systems.  
-📌 Exploring backend development, distributed systems, and low-level programming.  
-
-### 🔧 Technologies  
-- **Languages**: Go, Python, C, JAVA, C++, JS 
-- **Tools**: Docker, Git, Linux  
-- **Interests**: Systems programming, cloud computing, and performance optimization  
-
-### 📫 Connect  
-- GitHub: [github.com/your-username](https://github.com/your-username)  
-- Email: mr.dredkin@gmail.com 
--->
+📫 Reach me via:  
+- telegram: @elyfrucial
+- email: mr.dredkin@gmail.com  
